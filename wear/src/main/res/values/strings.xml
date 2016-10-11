@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunshine Watchface</string>
+    <string name="watchface_name">Sunshine</string>
+    <string name="info_not_available">Info not available!</string>
+</resources>
