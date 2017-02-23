@@ -2,7 +2,7 @@
 ##Udacity Android Nanodegree program
 ###Project 6
 
-An application developed to communicate and display weather details between a mobile device and an Android wearable device.
+An application developed to communicate and display weather details simultaneously on a mobile device and an Android wearable device.
 
 To use:
 
