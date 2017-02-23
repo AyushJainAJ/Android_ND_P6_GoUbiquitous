@@ -1,9 +1,13 @@
-#Android_ND_P6_GoUbiquitous
-An android project developed for Udacity Android Nanodegree.
+#Go Ubiquitous
+##Udacity Android Nanodegree program
+###Project 6
 
-This application communicates between a mobile device and an Android wearable device to display weather details.
+An application developed to communicate and display weather details between a mobile device and an Android wearable device.
 
-To use:<br>
-1. Signup at http://openweathermap.org/<br>
-2. Generate an API key<br>
+To use:
+
+1. Signup at http://openweathermap.org/
+
+2. Generate an API key
+
 3. Copy it to mobile build.gradle file
